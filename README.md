@@ -60,7 +60,7 @@ Write-ups and knowledge summaries I've created for common security concepts and 
 
 ## 📄 Resume
 
-- [View or download my resume](resume/BlytheDizon_Resume2025.pdf)
+- file:///C:/Users/Blythe%20Dizon/Documents/RESUME%202025/Blythe%20RESUME%202025.pdf
 
 ---
 
